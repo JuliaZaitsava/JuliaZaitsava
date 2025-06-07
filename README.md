@@ -7,7 +7,7 @@ Experienced in web testing, mobile testing, API testing and various testing tech
 Acknowledged in QA best practices, methodologies (Agile, Scrum), and tools.
 
 ## CV
-Please, check my CV  [on my Google Drive](https://drive.google.com/file/d/1CsncFHreuz0GK5Pq9dr_ydC6iwVA4hKS/view?usp=sharing).
+Please, check my CV  [on my Google Drive](https://drive.google.com/file/d/1eVpCz7B2E1_UdbbixRlo6z_7J3hZyHfS/view?usp=sharing).
 
 
 ## Skills
